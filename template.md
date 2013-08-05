@@ -23,7 +23,7 @@ If you agree, up the rep by 1 counter
 - Michael Hartl's Ruby on Rails tutorials rep:1000
 
 ###People to Follow
-- JavaScript, David Crockford
+- JavaScript, Douglas Crockford
 - JavaScript, San Francisco, Girls Develop It, Pamela Fox
 
 
