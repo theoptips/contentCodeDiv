@@ -18,6 +18,7 @@ Frequently used for prototyping in the Silicon Valley, popular among startups. E
 
 ###People to Follow
 - [Mark Otto, creator](http://markdotto.com/)
+- [Jacob Thornton](http://byfat.xxx/)
 
 
 ####Additional Resources
