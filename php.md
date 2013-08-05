@@ -7,7 +7,7 @@ Think of PHP as your server-side Swiss Army Knife. It gained momentum about 10 y
 ##Meta Tags
 
 ##Tutorials
-- [Codecademy](http://www.codecademy.com/courses/web-beginner-en-StaFQ/0/1) Comment: getting feet wet rep:1
+- [Codecademy](http://www.codecademy.com/courses/web-beginner-en-StaFQ/0/1) Comment: getting feet wet rep:2
 
 
 ###People to Follow
