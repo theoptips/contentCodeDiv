@@ -1,4 +1,4 @@
-#languageNameHere
+#languageNameHere (cat: language/tool/framework/library)
 - official documentation
 
 ##MetaTags e.g. Objective-C
@@ -35,5 +35,5 @@ If you agree, up the rep by 1 counter
 - Advice: ..... By ... rep: 2
 
 ######Companies
--company that uses the tech here
--e.g. Shopify Rails
+- company that uses the tech here
+- e.g. Shopify Rails
