@@ -13,7 +13,8 @@
 ##Tutorials
 Only list important resources here
 If you agree, up the rep by 1 counter
-- [Eloquent Javascript](http://eloquentjavascript.net/) rep: 1
+- [Eloquent Javascript Online | Free HTML](http://eloquentjavascript.net/) rep: 1
+- [Eloquent Javascript Print Book](http://www.amazon.com/gp/product/1593272820?ie=UTF8&camp=213733&creative=393185&creativeASIN=1593272820&linkCode=shr&tag=dilys-20&qid=1375691643&sr=8-1&keywords=eloquent+javascript/) rep: 1
 - [JavaScript the Good Parts](http://www.amazon.com/gp/product/0596517742?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596517742&linkCode=shr&tag=dilys-20) rep:!
 
 ###People to Follow
