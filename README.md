@@ -1,6 +1,8 @@
-#Meta Info for Web Development Languages
+#Meta Info for Web Development Languages, Tools and Framework
 
 Project Kalamari is a Github based, open source project. Provides meta information about various web, mobile and traditional programming languages to help beginners get started
+
+With all the cute logos and wonderful names, it's getting hard for beginners to successfully navigate the ocean of programming tools. We are lending a helping hand here.
 
 Visit the official project page
 [CodeDiv Kalamari](http://codediv.com/kalamari.php)
