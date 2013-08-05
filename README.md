@@ -6,6 +6,7 @@ With all the cute logos and wonderful names, it's getting hard for beginners to 
 
 Visit the official project page
 [CodeDiv Kalamari](http://codediv.com/kalamari.php)
+[Use MarkDown Syntax](http://daringfireball.net/projects/markdown/syntax)
 
 #Contributor List
 - Dilys Sun
@@ -20,4 +21,4 @@ Visit the official project page
 - Only create new files if they don't exist already
 
 #Mentor help
-Message @i_stanford to advise on management of this open source project
+Message [@i_stanford](http://www.twitter.com/i_stanford) to advise on management of this open source project
