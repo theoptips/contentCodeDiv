@@ -7,6 +7,7 @@
 - prototype tool
 - design
 - CSS
+- front-end
 
 ##Tutorials
 - [Official Documentation](http://getbootstrap.com/2.3.2/) rep: 1
