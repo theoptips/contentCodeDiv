@@ -2,6 +2,9 @@
 - [Bootstrap 3](http://getbootstrap.com/)
 - [Twitter Bootstrap - older, widely used](http://getbootstrap.com/2.3.2/)
 
+##Three Sentences Description Why the Language is Useful (for beginners to learn)
+Frequently used for prototyping in the Silicon Valley, popular among startups. Easy to learn, compatible with CSS3, use class to style (easy plug and play). Great prototyping tool for winning Hackathons. Responsive layout works well with mobile.
+
 ## Meta Tags
 - CSS Framework
 - prototype tool
