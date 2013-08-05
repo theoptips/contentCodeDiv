@@ -4,7 +4,7 @@
 ##Three Sentences Description Why the Language is Useful (for beginners to learn)
 e.g. jQuery is easy to use, easy to learn, as its motto states "Write Less, Do More". It is an useful JavaScript library that does a good job on cross-browser compatibility. Less codes for experts to write, inituitive enough for beginners, compatible with HTML5 and CSS3. 
 
-##MetaTags e.g. Objective-C
+##Meta Tags e.g. Objective-C
 - mobile
 - C
 - iOS
