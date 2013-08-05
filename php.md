@@ -2,12 +2,12 @@
 - [php.net](http://php.net/)
 
 ##Description
-Think of PHP as your server-side Swiss Army Knife. It gained momentum about 10 years ago as the simplest way to connect web pages to databases (mostly MySQL). Since then, it has gained object wrapper syntactical sugar and millions of websites running it as their core platform. It's most famous now for running Facebook, but bear in mind there have been many optimizations needed to enable it do so. It still remains an amazing way to get things done quickly, though admittedly, Ruby has taken on much of the new developer mindshare.
+Think of PHP as your server-side Swiss Army Knife. It gained momentum about 10 years ago as the simplest way to connect web pages to databases (mostly MySQL). Since then, it has gained object wrapper syntactical sugar, as well as millions of websites running it as their core platform. It's most famous now for running Facebook, but bear in mind there have been many optimizations needed to enable it do so. It still remains an amazing way to get things done quickly, though admittedly, Ruby has taken on much of the new developer mindshare.
 
 ##Meta Tags
 
 ##Tutorials
-- [Codecademy](http://www.codecademy.com/courses/web-beginner-en-StaFQ/0/1) Comment: getting feet wet rep:2
+- [Codecademy](http://www.codecademy.com/courses/web-beginner-en-StaFQ/0/1) Comment: getting feet wet rep:1
 
 
 ###People to Follow
@@ -20,3 +20,4 @@ Think of PHP as your server-side Swiss Army Knife. It gained momentum about 10 y
 
 ######Companies
 - Facebook
+- Wordpress
