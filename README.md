@@ -11,7 +11,7 @@ Visit the official project page
 
 #Contributor List
 - Dilys Sun
-- See your name here
+- Aaron Miller
 
 #Contribution Help
 - Fork and visit on Github
@@ -24,4 +24,4 @@ Visit the official project page
 #Mentor help
 Message [@i_stanford](http://www.twitter.com/i_stanford) to advise on management of this open source project
 
-*Disclaimer: I will replace most book links as my own Amazon referral code, to recoup a bit of unemployment cost and also [codediv](http://www.codediv.com) hosting cost, also a free resources for users now. Thanks for the understanding*
+*Disclaimer: I will replace most book links as my own Amazon referral code, to recoup a bit of unemployment cost and also [codediv](http://www.codediv.com) hosting cost, also a free resources for users now. Thanks for the understanding. Original authors should contact me to make revisions on links. Exceptions made case by case. optanovo (at) gmail com*
